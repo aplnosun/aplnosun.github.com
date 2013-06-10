@@ -19,6 +19,10 @@ int main(void)
     }
 
     printf("\n이 자료형의 범위는 %ld ~ %ld 입니다. \n", number, ~number);
+    printf("\n이 자료형의 범위는 %ld ~ %ld 입니다. \n", number, ~number);
+    printf("\n이 자료형의 범위는 %ld ~ %ld 입니다. \n", number, ~number);
+    printf("\n이 자료형의 범위는 %ld ~ %ld 입니다. \n", number, ~number);
+    printf("\n이 자료형의 범위는 %ld ~ %ld 입니다. \n", number, ~number);
 
     return 0;
 }

@@ -19,6 +19,10 @@ int main(void)
         g++;
         l++;
         printf("PID(%d): Child \n", getpid());
+        printf("PID(%d): Child \n", getpid());
+        printf("PID(%d): Child \n", getpid());
+        printf("PID(%d): Child \n", getpid());
+        printf("PID(%d): Child \n", getpid());
     } else {
         printf("PID(%d): Parent \n", getpid());
     }
